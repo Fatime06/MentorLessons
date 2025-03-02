@@ -1,0 +1,14 @@
+C:\Users\Shahla\source\repos\FirstMentorLesson\bin\Debug\net8.0\FirstMentorLesson.exe
+C:\Users\Shahla\source\repos\FirstMentorLesson\bin\Debug\net8.0\FirstMentorLesson.deps.json
+C:\Users\Shahla\source\repos\FirstMentorLesson\bin\Debug\net8.0\FirstMentorLesson.runtimeconfig.json
+C:\Users\Shahla\source\repos\FirstMentorLesson\bin\Debug\net8.0\FirstMentorLesson.dll
+C:\Users\Shahla\source\repos\FirstMentorLesson\bin\Debug\net8.0\FirstMentorLesson.pdb
+C:\Users\Shahla\source\repos\FirstMentorLesson\obj\Debug\net8.0\FirstMentorLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahla\source\repos\FirstMentorLesson\obj\Debug\net8.0\FirstMentorLesson.AssemblyInfoInputs.cache
+C:\Users\Shahla\source\repos\FirstMentorLesson\obj\Debug\net8.0\FirstMentorLesson.AssemblyInfo.cs
+C:\Users\Shahla\source\repos\FirstMentorLesson\obj\Debug\net8.0\FirstMentorLesson.csproj.CoreCompileInputs.cache
+C:\Users\Shahla\source\repos\FirstMentorLesson\obj\Debug\net8.0\FirstMentorLesson.dll
+C:\Users\Shahla\source\repos\FirstMentorLesson\obj\Debug\net8.0\refint\FirstMentorLesson.dll
+C:\Users\Shahla\source\repos\FirstMentorLesson\obj\Debug\net8.0\FirstMentorLesson.pdb
+C:\Users\Shahla\source\repos\FirstMentorLesson\obj\Debug\net8.0\FirstMentorLesson.genruntimeconfig.cache
+C:\Users\Shahla\source\repos\FirstMentorLesson\obj\Debug\net8.0\ref\FirstMentorLesson.dll
